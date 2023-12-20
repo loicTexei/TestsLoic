@@ -1,0 +1,3 @@
+[submodule "TestsLoic.wiki"]
+	path = TestsLoic.wiki
+	url = git@github.com:loicTexei/TestsLoic.wiki.git
